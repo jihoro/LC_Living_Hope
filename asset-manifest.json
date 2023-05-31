@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.js": "/LC_Living_Hope/static/js/main.4ed7d6d8.js",
-    "static/media/rotating-card-bg-front.jpeg": "/LC_Living_Hope/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
+    "main.js": "/LC_Living_Hope/static/js/main.c8981672.js",
     "static/media/macbook.png": "/LC_Living_Hope/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
     "static/media/bg-coworking.jpeg": "/LC_Living_Hope/static/media/bg-coworking.06bccc47fe6ae5366bf8.jpeg",
     "static/media/bg-sign-in-basic.jpeg": "/LC_Living_Hope/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
     "static/media/city-profile.jpg": "/LC_Living_Hope/static/media/city-profile.4d64bba97c3d1757379e.jpg",
-    "static/media/bg-presentation.jpg": "/LC_Living_Hope/static/media/bg-presentation.889630297390d27e8dfb.jpg",
-    "static/media/rotating-card-bg-back.jpeg": "/LC_Living_Hope/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/LC_Living_Hope/static/media/blog-9-4.de736e0b751f453415a5.jpg",
     "static/media/illustration-reset.jpg": "/LC_Living_Hope/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
-    "static/media/waves-white.svg": "/LC_Living_Hope/static/media/waves-white.7e7579c6e93ead70064fb4e8dd899f32.svg",
     "static/media/blog2.jpg": "/LC_Living_Hope/static/media/blog2.aba7a3cb94805e9557d1.jpg",
     "static/media/bg-about-us.jpg": "/LC_Living_Hope/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
     "static/media/testimonial-6-2.jpg": "/LC_Living_Hope/static/media/testimonial-6-2.21f2048f0b89919090f0.jpg",
@@ -23,19 +19,16 @@
     "static/media/ivana-square.jpg": "/LC_Living_Hope/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
     "static/media/ivana-squares.jpg": "/LC_Living_Hope/static/media/ivana-squares.3c555b856b04c2ab921b.jpg",
     "static/media/team-4.jpg": "/LC_Living_Hope/static/media/team-4.85c82b6e60178804017f.jpg",
-    "static/media/logo-digitalocean.svg": "/LC_Living_Hope/static/media/logo-digitalocean.a1f147b01387952368e3180edf221c96.svg",
     "static/media/logo-pinterest.svg": "/LC_Living_Hope/static/media/logo-pinterest.844709031a3c1266979e933c371e043a.svg",
     "static/media/logo-vodafone.svg": "/LC_Living_Hope/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
     "static/media/logo-spotify.svg": "/LC_Living_Hope/static/media/logo-spotify.7e255dc67938d13ff97cc8f16812d325.svg",
-    "static/media/logo-facebook.svg": "/LC_Living_Hope/static/media/logo-facebook.106d2ac0ece089e3c6def0a36c283ef7.svg",
     "static/media/logo-coinbase.svg": "/LC_Living_Hope/static/media/logo-coinbase.87e91c7f318f2d82f46e78469976128b.svg",
-    "static/media/logo-apple.svg": "/LC_Living_Hope/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
     "static/media/logo-nasa.svg": "/LC_Living_Hope/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "static/media/logo-netflix.svg": "/LC_Living_Hope/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/LC_Living_Hope/index.html",
-    "main.4ed7d6d8.js.map": "/LC_Living_Hope/static/js/main.4ed7d6d8.js.map"
+    "main.c8981672.js.map": "/LC_Living_Hope/static/js/main.c8981672.js.map"
   },
   "entrypoints": [
-    "static/js/main.4ed7d6d8.js"
+    "static/js/main.c8981672.js"
   ]
 }
