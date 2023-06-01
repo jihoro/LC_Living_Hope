@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/LC_Living_Hope/static/js/main.0919a19e.js",
+    "main.js": "/LC_Living_Hope/static/js/main.6cf6d50f.js",
     "static/media/rotating-card-bg-front.jpeg": "/LC_Living_Hope/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/jiho.jpg": "/LC_Living_Hope/static/media/jiho.bbb16277cdca9d7c9d15.jpg",
     "static/media/macbook.png": "/LC_Living_Hope/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
@@ -9,15 +9,16 @@
     "static/media/rotating-card-bg-back.jpeg": "/LC_Living_Hope/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/LC_Living_Hope/static/media/blog-9-4.de736e0b751f453415a5.jpg",
     "static/media/illustration-reset.jpg": "/LC_Living_Hope/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
+    "static/media/lcem.JPG": "/LC_Living_Hope/static/media/lcem.e0e4156f7e4d57cd73f2.JPG",
     "static/media/blog2.jpg": "/LC_Living_Hope/static/media/blog2.aba7a3cb94805e9557d1.jpg",
     "static/media/banner.jpg": "/LC_Living_Hope/static/media/banner.2cc7663b986d0aaa1353.jpg",
     "static/media/testimonial-6-2.jpg": "/LC_Living_Hope/static/media/testimonial-6-2.21f2048f0b89919090f0.jpg",
     "static/media/testimonial-6-3.jpg": "/LC_Living_Hope/static/media/testimonial-6-3.d35bef0d65354442d063.jpg",
     "static/media/bruce-mars.jpg": "/LC_Living_Hope/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
     "index.html": "/LC_Living_Hope/index.html",
-    "main.0919a19e.js.map": "/LC_Living_Hope/static/js/main.0919a19e.js.map"
+    "main.6cf6d50f.js.map": "/LC_Living_Hope/static/js/main.6cf6d50f.js.map"
   },
   "entrypoints": [
-    "static/js/main.0919a19e.js"
+    "static/js/main.6cf6d50f.js"
   ]
 }
